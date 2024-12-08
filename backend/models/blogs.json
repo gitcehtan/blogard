@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "category": "Technology",
+    "title": "The Future of AI in Everyday Life",
+    "content": "Artificial intelligence is transforming how we live, work, and interact. From chatbots to smart homes, AI is here to stay.",
+    "image": "https://via.placeholder.com/300?text=Technology",
+    "createdAt": "2024-01-01T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "category": "Health",
+    "title": "10 Tips for a Healthier Lifestyle",
+    "content": "Embracing small changes can lead to a healthier and happier life. Start today with these practical tips.",
+    "image": "https://via.placeholder.com/300?text=Health",
+    "createdAt": "2024-01-02T11:00:00Z"
+  },
+  {
+    "id": 3,
+    "category": "Travel",
+    "title": "Top 10 Destinations for 2024",
+    "content": "From exotic beaches to bustling cities, discover the must-visit destinations for your next adventure.",
+    "image": "https://via.placeholder.com/300?text=Travel",
+    "createdAt": "2024-01-03T12:00:00Z"
+  },
+  {
+    "id": 4,
+    "category": "Food",
+    "title": "Mastering the Art of Italian Cuisine",
+    "content": "Italian cuisine is more than just pizza and pasta. Explore authentic recipes to elevate your cooking skills.",
+    "image": "https://via.placeholder.com/300?text=Food",
+    "createdAt": "2024-01-04T13:00:00Z"
+  },
+  {
+    "id": 5,
+    "category": "Education",
+    "title": "Effective Learning Strategies for Students",
+    "content": "Discover techniques to improve focus, retention, and academic performance in the digital age.",
+    "image": "https://via.placeholder.com/300?text=Education",
+    "createdAt": "2024-01-05T14:00:00Z"
+  },
+  {
+    "id": 6,
+    "category": "Finance",
+    "title": "5 Smart Investment Tips for Beginners",
+    "content": "Start your investment journey with these simple yet effective tips to secure your financial future.",
+    "image": "https://via.placeholder.com/300?text=Finance",
+    "createdAt": "2024-01-06T15:00:00Z"
+  },
+  {
+    "id": 7,
+    "category": "Lifestyle",
+    "title": "Decluttering Your Home: A Minimalist Guide",
+    "content": "Minimalism is about more than aesthetics. Learn how decluttering can transform your life.",
+    "image": "https://via.placeholder.com/300?text=Lifestyle",
+    "createdAt": "2024-01-07T16:00:00Z"
+  },
+  {
+    "id": 8,
+    "category": "Technology",
+    "title": "5G Networks: Revolutionizing Connectivity",
+    "content": "Explore how 5G technology is set to revolutionize communication and connectivity worldwide.",
+    "image": "https://via.placeholder.com/300?text=Technology",
+    "createdAt": "2024-01-08T17:00:00Z"
+  },
+  {
+    "id": 9,
+    "category": "Health",
+    "title": "The Importance of Mental Health Awareness",
+    "content": "Mental health is just as important as physical health. Learn how to support yourself and others.",
+    "image": "https://via.placeholder.com/300?text=Health",
+    "createdAt": "2024-01-09T18:00:00Z"
+  },
+  {
+    "id": 10,
+    "category": "Travel",
+    "title": "Traveling Solo: A Comprehensive Guide",
+    "content": "Solo travel can be empowering and rewarding. Here’s how to plan a safe and enjoyable trip.",
+    "image": "https://via.placeholder.com/300?text=Travel",
+    "createdAt": "2024-01-10T19:00:00Z"
+  },
+  {
+    "id": 11,
+    "category": "Food",
+    "title": "The Rise of Plant-Based Diets",
+    "content": "Plant-based diets are gaining popularity for health and environmental benefits. Learn how to get started.",
+    "image": "https://via.placeholder.com/300?text=Food",
+    "createdAt": "2024-01-11T10:00:00Z"
+  },
+  {
+    "id": 12,
+    "category": "Education",
+    "title": "Online Learning: Pros and Cons",
+    "content": "The shift to online education has changed the learning landscape. Understand its advantages and challenges.",
+    "image": "https://via.placeholder.com/300?text=Education",
+    "createdAt": "2024-01-12T11:00:00Z"
+  },
+  {
+    "id": 13,
+    "category": "Finance",
+    "title": "Understanding Cryptocurrency Basics",
+    "content": "Cryptocurrency is a buzzword, but what does it mean? Get the basics in this beginner's guide.",
+    "image": "https://via.placeholder.com/300?text=Finance",
+    "createdAt": "2024-01-13T12:00:00Z"
+  },
+  {
+    "id": 14,
+    "category": "Lifestyle",
+    "title": "The Benefits of Morning Routines",
+    "content": "A consistent morning routine can set the tone for a productive day. Here’s how to craft yours.",
+    "image": "https://via.placeholder.com/300?text=Lifestyle",
+    "createdAt": "2024-01-14T13:00:00Z"
+  },
+  {
+    "id": 15,
+    "category": "Technology",
+    "title": "Exploring the World of Virtual Reality",
+    "content": "Virtual reality is no longer science fiction. See how it’s being used across industries.",
+    "image": "https://via.placeholder.com/300?text=Technology",
+    "createdAt": "2024-01-15T14:00:00Z"
+  },
+  {
+    "id": 16,
+    "category": "Health",
+    "title": "Yoga for Beginners: Getting Started",
+    "content": "Yoga is an excellent way to improve flexibility and reduce stress. Learn how to begin.",
+    "image": "https://via.placeholder.com/300?text=Health",
+    "createdAt": "2024-01-16T15:00:00Z"
+  },
+  {
+    "id": 17,
+    "category": "Food",
+    "title": "The Joy of Home Baking",
+    "content": "Home baking is not just about cakes; it’s about creativity, love, and bringing smiles.",
+    "image": "https://via.placeholder.com/300?text=Food",
+    "createdAt": "2024-01-17T16:00:00Z"
+  },
+  {
+    "id": 18,
+    "category": "Travel",
+    "title": "Hiking Trails to Explore in 2024",
+    "content": "Reconnect with nature on these breathtaking hiking trails around the world.",
+    "image": "https://via.placeholder.com/300?text=Travel",
+    "createdAt": "2024-01-18T17:00:00Z"
+  },
+  {
+    "id": 19,
+    "category": "Education",
+    "title": "The Impact of Gamification in Learning",
+    "content": "Gamification is making learning fun and engaging for students of all ages.",
+    "image": "https://via.placeholder.com/300?text=Education",
+    "createdAt": "2024-01-19T18:00:00Z"
+  },
+  {
+    "id": 20,
+    "category": "Finance",
+    "title": "How to Budget Effectively",
+    "content": "Learn practical ways to manage your finances and save for the future.",
+    "image": "https://via.placeholder.com/300?text=Finance",
+    "createdAt": "2024-01-20T19:00:00Z"
+  },
+  {
+    "id": 21,
+    "category": "Lifestyle",
+    "title": "Mindfulness for a Calmer Life",
+    "content": "Practicing mindfulness can help reduce stress and improve overall well-being. Start with simple steps.",
+    "image": "https://via.placeholder.com/300?text=Lifestyle",
+    "createdAt": "2024-01-21T10:00:00Z"
+  },
+  {
+    "id": 22,
+    "category": "Technology",
+    "title": "The Rise of Blockchain Beyond Cryptocurrency",
+    "content": "Blockchain technology is transforming industries like healthcare, finance, and logistics. Discover how.",
+    "image": "https://via.placeholder.com/300?text=Technology",
+    "createdAt": "2024-01-22T11:00:00Z"
+  },
+  {
+    "id": 23,
+    "category": "Health",
+    "title": "Healthy Eating on a Budget",
+    "content": "Eating healthy doesn't have to be expensive. Learn tips to shop smart and eat well.",
+    "image": "https://via.placeholder.com/300?text=Health",
+    "createdAt": "2024-01-23T12:00:00Z"
+  },
+  {
+    "id": 24,
+    "category": "Travel",
+    "title": "Hidden Gems You Must Visit",
+    "content": "Skip the tourist hotspots and explore these lesser-known travel destinations for a unique experience.",
+    "image": "https://via.placeholder.com/300?text=Travel",
+    "createdAt": "2024-01-24T13:00:00Z"
+  },
+  {
+    "id": 25,
+    "category": "Food",
+    "title": "Quick and Easy Weeknight Dinners",
+    "content": "Busy weeknights? Try these delicious, quick, and nutritious meal ideas that save time.",
+    "image": "https://via.placeholder.com/300?text=Food",
+    "createdAt": "2024-01-25T14:00:00Z"
+  },
+  {
+    "id": 26,
+    "category": "Education",
+    "title": "STEM Careers for the Future",
+    "content": "The future is bright for STEM graduates. Explore high-demand careers in science and technology.",
+    "image": "https://via.placeholder.com/300?text=Education",
+    "createdAt": "2024-01-26T15:00:00Z"
+  },
+  {
+    "id": 27,
+    "category": "Finance",
+    "title": "Building Passive Income Streams",
+    "content": "Generate passive income through smart investments and side hustles. Here’s how to get started.",
+    "image": "https://via.placeholder.com/300?text=Finance",
+    "createdAt": "2024-01-27T16:00:00Z"
+  },
+  {
+    "id": 28,
+    "category": "Lifestyle",
+    "title": "Sustainable Living for Beginners",
+    "content": "Reduce your environmental footprint with simple, sustainable lifestyle changes that make a big difference.",
+    "image": "https://via.placeholder.com/300?text=Lifestyle",
+    "createdAt": "2024-01-28T17:00:00Z"
+  },
+  {
+    "id": 29,
+    "category": "Technology",
+    "title": "Exploring the Internet of Things (IoT)",
+    "content": "Discover how connected devices are reshaping our homes, cities, and workplaces through IoT.",
+    "image": "https://via.placeholder.com/300?text=Technology",
+    "createdAt": "2024-01-29T18:00:00Z"
+  },
+  {
+    "id": 30,
+    "category": "Health",
+    "title": "Home Workouts for All Fitness Levels",
+    "content": "Stay fit at home with workouts tailored to different fitness levels. No gym required!",
+    "image": "https://via.placeholder.com/300?text=Health",
+    "createdAt": "2024-01-30T19:00:00Z"
+  },
+  {
+    "id": 31,
+    "category": "Travel",
+    "title": "Budget Travel Tips You Need to Know",
+    "content": "Travel on a budget without sacrificing the experience. Discover cost-saving travel tips.",
+    "image": "https://via.placeholder.com/300?text=Travel",
+    "createdAt": "2024-01-31T10:00:00Z"
+  },
+  {
+    "id": 32,
+    "category": "Food",
+    "title": "Cooking with Seasonal Ingredients",
+    "content": "Seasonal cooking is delicious and sustainable. Learn how to create meals with fresh ingredients.",
+    "image": "https://via.placeholder.com/300?text=Food",
+    "createdAt": "2024-02-01T11:00:00Z"
+  },
+  {
+    "id": 33,
+    "category": "Education",
+    "title": "Developing Critical Thinking Skills",
+    "content": "Critical thinking is essential in today’s world. Learn exercises to sharpen your thinking abilities.",
+    "image": "https://via.placeholder.com/300?text=Education",
+    "createdAt": "2024-02-02T12:00:00Z"
+  },
+  {
+    "id": 34,
+    "category": "Finance",
+    "title": "Saving for Retirement: Start Early",
+    "content": "It's never too early to plan for retirement. Discover tips to build a secure financial future.",
+    "image": "https://via.placeholder.com/300?text=Finance",
+    "createdAt": "2024-02-03T13:00:00Z"
+  },
+  {
+    "id": 35,
+    "category": "Lifestyle",
+    "title": "Self-Care Rituals for Better Well-Being",
+    "content": "Self-care is more than a trend. Incorporate these rituals into your life for better balance.",
+    "image": "https://via.placeholder.com/300?text=Lifestyle",
+    "createdAt": "2024-02-04T14:00:00Z"
+  },
+  {
+    "id": 36,
+    "category": "Technology",
+    "title": "Exploring AI in Healthcare",
+    "content": "AI is transforming healthcare, from diagnostics to personalized treatments. Learn about its potential.",
+    "image": "https://via.placeholder.com/300?text=Technology",
+    "createdAt": "2024-02-05T15:00:00Z"
+  },
+  {
+    "id": 37,
+    "category": "Health",
+    "title": "Boosting Immunity Naturally",
+    "content": "Support your immune system with natural remedies, healthy eating, and good lifestyle habits.",
+    "image": "https://via.placeholder.com/300?text=Health",
+    "createdAt": "2024-02-06T16:00:00Z"
+  },
+  {
+    "id": 38,
+    "category": "Travel",
+    "title": "Eco-Friendly Travel Tips",
+    "content": "Traveling sustainably is more important than ever. Learn how to reduce your travel footprint.",
+    "image": "https://via.placeholder.com/300?text=Travel",
+    "createdAt": "2024-02-07T17:00:00Z"
+  },
+  {
+    "id": 39,
+    "category": "Food",
+    "title": "Healthy Meal Prep Ideas",
+    "content": "Save time and eat healthier with meal prep tips that fit any lifestyle or dietary preference.",
+    "image": "https://via.placeholder.com/300?text=Food",
+    "createdAt": "2024-02-08T18:00:00Z"
+  },
+  {
+    "id": 40,
+    "category": "Education",
+    "title": "Effective Study Habits for Success",
+    "content": "Success starts with good study habits. Learn how to study smarter, not harder.",
+    "image": "https://via.placeholder.com/300?text=Education",
+    "createdAt": "2024-02-09T19:00:00Z"
+  }
+]

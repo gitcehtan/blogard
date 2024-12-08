@@ -1,0 +1,7 @@
+.about{
+    height: 93vh;
+    min-height: 93%;
+    width: 100%;
+    /* background-color: #e6ffff; */
+    background-image: linear-gradient(90deg,#d8e9ff,#e6ffff,#fff4fe ,#e6ffff, #d8e9ff);
+}
